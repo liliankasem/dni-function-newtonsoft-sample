@@ -7,6 +7,5 @@
 
 ## Running the sample
 
-- `dotnet build`
-- `dotnet run`
+- `dotnet build && dotnet run`
 - `curl http://localhost:7071/api/MyHttpFunction`
